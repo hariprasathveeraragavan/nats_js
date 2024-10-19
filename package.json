@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.11.3",
+    "nats": "^2.28.2"
+  }
+}
